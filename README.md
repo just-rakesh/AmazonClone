@@ -1,0 +1,2 @@
+# AmazonClone
+An Amazon Clone. 
